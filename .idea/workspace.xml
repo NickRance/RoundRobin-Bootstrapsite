@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be2435f8-1a21-4754-ad59-46c655b17353" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/overview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/recommendations.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/chat.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -29,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="134" column="50" lean-forward="true" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+            <state relative-caret-position="150">
+              <caret line="136" column="58" lean-forward="false" selection-start-line="136" selection-start-column="50" selection-end-line="136" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -40,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/lib/simple-line-icons/fonts/Simple-Line-Icons.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="664">
-              <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+              <caret line="55" column="23" lean-forward="false" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -309,12 +308,12 @@
       <updated>1501515312727</updated>
       <workItem from="1501515314358" duration="1262000" />
       <workItem from="1501527990106" duration="4000" />
-      <workItem from="1501946707529" duration="7394000" />
+      <workItem from="1501946707529" duration="9662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8660000" />
+    <option name="totallyTimeSpent" value="10928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
@@ -374,15 +373,15 @@
     <entry file="file://$PROJECT_DIR$/lib/simple-line-icons/fonts/Simple-Line-Icons.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="664">
-          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <caret line="55" column="23" lean-forward="false" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="134" column="50" lean-forward="true" selection-start-line="134" selection-start-column="50" selection-end-line="134" selection-end-column="50" />
+        <state relative-caret-position="150">
+          <caret line="136" column="58" lean-forward="false" selection-start-line="136" selection-start-column="50" selection-end-line="136" selection-end-column="58" />
           <folding />
         </state>
       </provider>
